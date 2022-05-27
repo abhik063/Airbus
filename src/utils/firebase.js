@@ -4,7 +4,6 @@ import { getAnalytics } from "firebase/analytics";
 import { collection, getDocs,addDoc,getFirestore } from "firebase/firestore"; 
 const dotenv = require('dotenv');
 dotenv.config();
-console.log(`Your port is ${process.env.REACT_APP_apiKey}`)
 
 //Set Up the .env file with all the details
 const firebaseConfig = {
