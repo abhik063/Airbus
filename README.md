@@ -62,3 +62,12 @@
 -   Now paste your access token in the file.
     
 -   Run `npm start` and your application will be started on your local machine.
+
+## 🤚 About Us
+
+Team Icons:-
+
+ - Adita Verma ([Github Profile)](https://github.com/createadi)
+ - Abhishek Kumar [(Github Profile)](https://github.com/abhik063)
+ - Ishan Bhatia [(Github Profile)](https://github.com/Ishanbhatia98)
+ - Manak Preet Singh
